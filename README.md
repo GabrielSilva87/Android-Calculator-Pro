@@ -1,4 +1,4 @@
-# Android and iOS Calculator Pro 📱
+# Android and iOS Calculator Pro 📱 (App)
 - Description:
 
 

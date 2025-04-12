@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Avançada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .calculator {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"] {
+            width: 100%;
+            height: 40px;
+            font-size: 24px;
+            text-align: right;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        button {
+            width: 23%;
+            height: 50px;
+            font-size: 18px;
+            margin: 1%;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="calculator">
+    <input type="text" id="display" disabled>
+    <div>
+        <button onclick="clearDisplay()">C</button>
+        <button onclick="appendToDisplay('/')">/</button>
+        <button onclick="appendToDisplay('*')">*</button>
+        <button onclick="appendToDisplay('-')">-</button>
+    </div>
+    <div>
+        <button onclick="appendToDisplay('7')">7</button>
+        <button onclick="appendToDisplay('8')">8</button>
+        <button onclick="appendToDisplay('9')">9</button>
+        <button onclick="appendToDisplay('+')">+</button>
+    </div>
+    <div>
+        <button onclick="appendToDisplay('4')">4</button>
+        <button onclick="appendToDisplay('5')">5</button>
+        <button onclick="appendToDisplay('6')">6</button>
+        <button onclick="calculateResult()">=</button>
+    </div>
+    <div>
+        <button onclick="appendToDisplay('1')">1</button>
+        <button onclick="appendToDisplay('2')">2</button>
+        <button onclick="appendToDisplay('3')">3</button>
+    </div>
+    <div>
+        <button onclick="appendToDisplay('0')">0</button>
+        <button onclick="calculateSquareRoot()">√</button>
+        <button onclick="calculatePower()">^</button>
+        <button onclick="calculateCos()">cos</button>
+        <button onclick="calculateTan()">tan</button>
+    </div>
+</div>
+
+<script>
+    function appendToDisplay(value) {
+        document.getElementById('display').value += value;
+    }
+
+    function clearDisplay() {
+        document.getElementById('display').value = '';
+    }
+
+    function calculateResult() {
+        const display = document.getElementById('display');
+        try {
+            display.value = eval(display.value);
+        } catch (error) {
+            display.value = 'Erro';
+        }
+    }
+
+    function calculateSquareRoot() {
+        const display = document.getElementById('display');
+        const value = parseFloat(display.value);
+        if (!isNaN(value)) {
+            display.value = Math.sqrt(value);
+        } else {
+            display.value = 'Erro';
+        }
+    }
+
+    function calculatePower() {
+        const display = document.getElementById('display');
+        const parts = display.value.split('^');
+        if (parts.length === 2) {
+            const base = parseFloat(parts[0]);
+            const exponent = parseFloat(parts[1]);
+            if (!isNaN(base) && !isNaN(exponent)) {
+                display.value = Math.pow(base, exponent);
+            } else {
+                display.value = 'Erro';
+            }
+        } else {
+            display.value = 'Erro';
+        }
+    }
+
+    function calculateCos() {
+        const display = document.getElementById('display');
+        const value = parseFloat(display.value);
+        if (!isNaN(value)) {
+            display.value

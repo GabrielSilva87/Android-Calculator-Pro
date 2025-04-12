@@ -129,4 +129,22 @@
         const display = document.getElementById('display');
         const value = parseFloat(display.value);
         if (!isNaN(value)) {
-            display.value
+                        display.value = Math.cos(value * Math.PI / 180); // Converte graus para radianos
+        } else {
+            display.value = 'Erro';
+        }
+    }
+
+    function calculateTan() {
+        const display = document.getElementById('display');
+        const value = parseFloat(display.value);
+        if (!isNaN(value)) {
+            display.value = Math.tan(value * Math.PI / 180); // Converte graus para radianos
+        } else {
+            display.value = 'Erro';
+        }
+    }
+</script>
+
+</body>
+</html>

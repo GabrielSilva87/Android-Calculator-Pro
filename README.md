@@ -1,6 +1,6 @@
 # Android and iOS Calculator Pro 📱
 - Description: This application has the same objective as a calculator, however, with some additional implements, such as cosine, sine, tangent. 
-# Languages Used
+# Languages useds:
 [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)

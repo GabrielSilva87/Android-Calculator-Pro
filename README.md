@@ -21,4 +21,4 @@
 
 # 📈 Repository Stats:
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=repos)](#)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=)](#)

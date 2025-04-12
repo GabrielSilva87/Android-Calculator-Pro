@@ -1,6 +1,8 @@
 # 📱 Android and iOS Calculator Pro
 - Description: This application has the same objective as a calculator, however, with some additional implements, such as cosine, sine, tangent. 
 
+- Made by : ![GabrielSilva87](https://github.com/GabrielSilva87)
+
 ![Linear](https://github.com/manulthanura/manulthanura/blob/main/GradientLine.gif)
 
 # 🖥 All languages and systems used:

@@ -21,4 +21,4 @@
 
 # 📈 Repository Stats:
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=https://github.com/GabrielSilva87/Android-Calculator-Pro)](#)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=GabrielSilva87)](#)

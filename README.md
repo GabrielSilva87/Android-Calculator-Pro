@@ -17,7 +17,6 @@
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
-![Linear](https://github.com/manulthanura/manulthanura/blob/main/GradientLine.gif)
 
 # 📈 Repository Stats:
 

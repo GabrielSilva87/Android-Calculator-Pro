@@ -19,5 +19,6 @@
 
 ![Linear](https://github.com/manulthanura/manulthanura/blob/main/GradientLine.gif)
 
-# 👨‍🔧 Made by:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg)
+# 📈 Repository Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=repos;l

@@ -1,2 +1,8 @@
-# Android-Calculator-Pro
-This is an application, with the role of a calculator, however, more beautiful and advanced.
+![Objective-C](https://upload.wikimedia.org/wikipedia/commons/4/47/Objective-C_logo.svg)
+![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg)
+![Dart](https://upload.wikimedia.org/wikipedia/commons/1/1e/Dart_logo.png)
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.png)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)

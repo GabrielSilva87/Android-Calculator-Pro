@@ -29,7 +29,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg)
 <img src="png/Screenshot_20250412-224128_GitHub.jpg" height="180" width="180">![Img](https://github.com/GabrielSilva87.png)
 
-# 📷 Demonstration:
+# 📷 HTML Demonstration:
 
-- (In Android Galaxy A10S):
+- (UTF-8):
+
 ![demo](https://github.com/GabrielSilva87/Android-Calculator-Pro/blob/main/png%2FScreenshot_20250413-001558_HTML%20Viewer.jpg)

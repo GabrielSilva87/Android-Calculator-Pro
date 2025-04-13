@@ -20,4 +20,4 @@
 
 # 📈 Repository Stats:
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&repo=Android-Calculator-Prolayout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&repo=https://github.com/GabrielSilva87/Android-Calculator-Prolayout=compact)

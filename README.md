@@ -24,7 +24,7 @@
 ![Issues](https://img.shields.io/github/issues/GabrielSilva87/Android-Calculator-Pro)
 ![Forks](https://img.shields.io/github/forks/GabrielSilva87/Android-Calculator-Pro)
 
-# Made by:
+# ℹ Made by:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg)
 <center>

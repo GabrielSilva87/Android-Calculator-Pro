@@ -26,4 +26,4 @@
 
 ## Créditos
 
-Feito por [Gabriel Silva](https://github.com/GabrielSilva87) ![Gabriel Silva](https://github.com/GabrielSilva87.png)
+Feito por [Gabriel Silva](https://github.com/GabrielSilva87) <img src="https://github.com/GabrielSilva87.png" alt="Gabriel Silva" width="50" style="border-radius: 50%;">

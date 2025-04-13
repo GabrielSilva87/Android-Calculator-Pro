@@ -31,4 +31,5 @@
 
 # 📷 Demonstration:
 
+- In Android
 ![demo](https://github.com/GabrielSilva87/Android-Calculator-Pro/blob/main/png%2FScreenshot_20250413-001558_HTML%20Viewer.jpg)

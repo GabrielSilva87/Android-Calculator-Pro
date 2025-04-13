@@ -25,6 +25,6 @@
 ![Forks](https://img.shields.io/github/forks/GabrielSilva87/Android-Calculator-Pro)
 
 # Made by:
-### hg
+
 <center>
 <img src="https://github.com/GabrielSilva87.png" alt="Gabriel Silva" width="50" style="border-radius: 50%;">

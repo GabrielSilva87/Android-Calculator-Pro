@@ -26,5 +26,6 @@
 
 # ℹ Made by:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg) ![asset](png/21022.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg)
+<img src="png/21022.png">
 ![Img](https://github.com/GabrielSilva87.png)

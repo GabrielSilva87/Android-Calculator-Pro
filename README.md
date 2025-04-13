@@ -20,6 +20,4 @@
 
 # 📈 Repository Stats:
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs?method=https://github.com/GabrielSilva87)](#)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&repo=Androidlayout=compact)

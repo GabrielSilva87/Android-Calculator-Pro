@@ -20,4 +20,8 @@
 
 # 📈 Repository Stats:
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva87&repo=Android-Calculator-Pro&layout=compact)
+![Visitas](https://img.shields.io/badge/visitas-1234-brightgreen)
+![Curtidas](https://img.shields.io/badge/curtidas-567-blue)
+![Issues](https://img.shields.io/badge/issues-8-yellow)
+![Commits](https://img.shields.io/badge/commits-45-orange)
+![Forks](https://img.shields.io/badge/forks-12-red)

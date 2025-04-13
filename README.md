@@ -20,8 +20,6 @@
 
 # 📈 Repository Stats:
 
-![Visitas](https://img.shields.io/badge/visitas-1234-brightgreen)
-![Curtidas](https://img.shields.io/badge/curtidas-567-blue)
-![Issues](https://img.shields.io/badge/issues-8-yellow)
-![Commits](https://img.shields.io/badge/commits-45-orange)
-![Forks](https://img.shields.io/badge/forks-12-red)
+![Stars](https://img.shields.io/github/stars/GabrielSilva87/Android-Calculator-Pro?style=social)
+![Issues](https://img.shields.io/github/issues/GabrielSilva87/Android-Calculator-Pro)
+![Forks](https://img.shields.io/github/forks/GabrielSilva87/Android-Calculator-Pro)

@@ -24,6 +24,6 @@
 ![Issues](https://img.shields.io/github/issues/GabrielSilva87/Android-Calculator-Pro)
 ![Forks](https://img.shields.io/github/forks/GabrielSilva87/Android-Calculator-Pro)
 
-# Créditos
+# Made by:
 
 <img src="https://github.com/GabrielSilva87.png" alt="Gabriel Silva" width="50" style="border-radius: 50%;">

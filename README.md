@@ -23,3 +23,7 @@
 ![Stars](https://img.shields.io/github/stars/GabrielSilva87/Android-Calculator-Pro?style=social)
 ![Issues](https://img.shields.io/github/issues/GabrielSilva87/Android-Calculator-Pro)
 ![Forks](https://img.shields.io/github/forks/GabrielSilva87/Android-Calculator-Pro)
+
+## Créditos
+
+Feito por [Gabriel Silva](https://github.com/GabrielSilva87) ![Gabriel Silva](https://github.com/GabrielSilva87.png)

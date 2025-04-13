@@ -26,6 +26,7 @@
 
 # ℹ Made by:
 
+![Ti](images.jpeg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=17FF40D7&width=435&lines=GabrielSilva87)](https://git.io/typing-svg)
 <center>
 <img src="https://github.com/GabrielSilva87.png" alt="Gabriel Silva" width="50" style="border-radius: 50%;">
